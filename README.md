@@ -56,8 +56,8 @@
     }
     
     
-    execução: 
-    Valores da lista encadeada:
-    10 -> 20 -> 30 -> NULL
-    Memória usada por cada célula: 16 bytes
-    Memória liberada com sucesso.
+    //execução: 
+    //Valores da lista encadeada:
+    //10 -> 20 -> 30 -> NULL
+    //Memória usada por cada célula: 16 bytes
+    //Memória liberada com sucesso.
